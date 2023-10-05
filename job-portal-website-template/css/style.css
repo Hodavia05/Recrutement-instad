@@ -234,7 +234,7 @@
 
 .page-header {
     background: linear-gradient(rgba(43, 57, 64, .5), rgba(43, 57, 64, .5)), url(../img/instad2.jpg) center;
-    background-size: cover;
+    background-size: contain;
 }
 
 .breadcrumb-item + .breadcrumb-item::before {
